@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+My version of the repo while learning React/Redux from tge Udemy course below: 
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
